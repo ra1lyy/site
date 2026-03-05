@@ -1,0 +1,10 @@
+Timestamp,IP,ClientPort,ServerPort,UserAgent,Referer,Method,URL,Host
+"04.03.2026, 20:18:16",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",direct,GET,/,localhost:3000
+"04.03.2026, 20:18:16",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",http://localhost:3000/,POST,/log,localhost:3000
+"04.03.2026, 20:18:17",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",direct,GET,/,localhost:3000
+"04.03.2026, 20:18:17",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",http://localhost:3000/,POST,/log,localhost:3000
+"05.03.2026, 12:03:49",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",direct,GET,/,localhost:3000
+"05.03.2026, 12:03:50",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",http://localhost:3000/,POST,/log,localhost:3000
+"05.03.2026, 12:03:50",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",direct,GET,/,localhost:3000
+"05.03.2026, 12:03:50",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",http://localhost:3000/,POST,/log,localhost:3000
+"05.03.2026, 12:03:50",127.0.0.1,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",http://localhost:3000/,GET,/favicon.ico,localhost:3000

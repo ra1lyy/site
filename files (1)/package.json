@@ -1,0 +1,14 @@
+{
+  "name": "ip-logger",
+  "version": "1.0.0",
+  "description": "IP Logger with backend logging - No external dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ip", "logger", "tracker"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

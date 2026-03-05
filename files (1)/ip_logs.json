@@ -1,0 +1,101 @@
+[
+  {
+    "timestamp": "04.03.2026, 20:18:16",
+    "ip": "127.0.0.1",
+    "clientPort": 10928,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "direct",
+    "host": "localhost:3000",
+    "method": "GET",
+    "url": "/"
+  },
+  {
+    "timestamp": "04.03.2026, 20:18:16",
+    "ip": "127.0.0.1",
+    "clientPort": 10928,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "http://localhost:3000/",
+    "host": "localhost:3000",
+    "method": "POST",
+    "url": "/log"
+  },
+  {
+    "timestamp": "04.03.2026, 20:18:17",
+    "ip": "127.0.0.1",
+    "clientPort": 10928,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "direct",
+    "host": "localhost:3000",
+    "method": "GET",
+    "url": "/"
+  },
+  {
+    "timestamp": "04.03.2026, 20:18:17",
+    "ip": "127.0.0.1",
+    "clientPort": 10928,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "http://localhost:3000/",
+    "host": "localhost:3000",
+    "method": "POST",
+    "url": "/log"
+  },
+  {
+    "timestamp": "05.03.2026, 12:03:49",
+    "ip": "127.0.0.1",
+    "clientPort": 22238,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "direct",
+    "host": "localhost:3000",
+    "method": "GET",
+    "url": "/"
+  },
+  {
+    "timestamp": "05.03.2026, 12:03:50",
+    "ip": "127.0.0.1",
+    "clientPort": 22238,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "http://localhost:3000/",
+    "host": "localhost:3000",
+    "method": "POST",
+    "url": "/log"
+  },
+  {
+    "timestamp": "05.03.2026, 12:03:50",
+    "ip": "127.0.0.1",
+    "clientPort": 22238,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "direct",
+    "host": "localhost:3000",
+    "method": "GET",
+    "url": "/"
+  },
+  {
+    "timestamp": "05.03.2026, 12:03:50",
+    "ip": "127.0.0.1",
+    "clientPort": 22238,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "http://localhost:3000/",
+    "host": "localhost:3000",
+    "method": "POST",
+    "url": "/log"
+  },
+  {
+    "timestamp": "05.03.2026, 12:03:50",
+    "ip": "127.0.0.1",
+    "clientPort": 22238,
+    "serverPort": 3000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition std-2)",
+    "referer": "http://localhost:3000/",
+    "host": "localhost:3000",
+    "method": "GET",
+    "url": "/favicon.ico"
+  }
+]
